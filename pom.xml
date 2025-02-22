@@ -21,4 +21,10 @@
         </repository>
     </distributionManagement>
 
+    <scm>
+        <connection>scm:git:https://github.com/TruffleMuffinzz/DeJoseph_MathUtils_Assignment1</connection>
+        <developerConnection>scm:git:https://github.com/TruffleMuffinz/DeJoseph_MathUtils_Assignment1.git</developerConnection>
+        <url>https://github.com/TruffleMuffinzz/DeJoseph_MathUtils_Assignment1</url>
+    </scm>
+
 </project>
