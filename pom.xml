@@ -14,4 +14,11 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
+    <distributionManagement>
+        <repository>
+            <id>github</id>
+            <url>https://maven.pkg.github.com/TruffleMuffinzz/DeJoseph_MathUtils_Assignment1</url>
+        </repository>
+    </distributionManagement>
+
 </project>
